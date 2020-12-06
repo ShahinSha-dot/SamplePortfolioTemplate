@@ -292,6 +292,20 @@ body {
     margin-bottom: -30px;
 }
 
+#goto3{
+  background-color: var(--background);
+  color: white;
+  width: 180px;
+  height: 40px;
+  border-radius: 17px;
+  font-family: var(--nunito);
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  margin-left: 550px;
+  margin-bottom: -30px;
+}
+
 a{
     color: white;
     text-decoration: none;
